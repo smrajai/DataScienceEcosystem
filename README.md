@@ -1,3 +1,3 @@
-# DataScienceEcosystem
+# Coursera
 
 # By Rajai
